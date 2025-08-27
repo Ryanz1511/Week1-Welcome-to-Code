@@ -18,8 +18,8 @@
 // algoritma
 //isi algoritma mu disini (AWAS KALO GA DI ISI!!!!)
 
-let nama = "",
-  peran = "";
+let nama = "Ryan",
+  peran = "Tabib";
 
   if (nama==="") {
     console.log("Nama Wajib Di Isi !")
